@@ -29,3 +29,4 @@ if choice == "Robot hoover":
     choice_of_robot_hoover_marks = input('ввидите марку из' + Robots_hoover)
     if choice_of_robot_hoover_marks == "Laptop":
         print("вы выбрали" + choice_of_robot_hoover_marks)
+        
