@@ -2,6 +2,7 @@
 **Shop of git** is a project demonstrating the basic functionality of a store with a small selection of products. The project includes:
 
 **main.py**: Backend part of the application.
+
 **index.html**: Frontend part for the user interface.
 
 # Installation
