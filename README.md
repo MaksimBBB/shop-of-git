@@ -11,6 +11,7 @@
 git clone <https://github.com/MaksimBBB/shop-of-git>
 ```
 **2. Make sure you have Python (version 3.7 or higher) installed.**
+
 **3. Install the necessary dependencies:**
 ```bash
 git clone <https://github.com/MaksimBBB/shop-of-git>
