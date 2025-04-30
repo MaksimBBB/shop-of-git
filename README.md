@@ -15,5 +15,5 @@ git clone <https://github.com/MaksimBBB/shop-of-git>
 
 **3. Install the necessary dependencies:**
 ```bash
-git clone <https://github.com/MaksimBBB/shop-of-git>
+pip install -r requirements.txt
 ```
